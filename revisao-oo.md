@@ -58,7 +58,7 @@
 - Se da quando criamos diferentes variações de um mesmo método criação de dois ou mais métodos com nomes totalmente iguais mas comportamentos diferentes.
 
 
-### Sobreposição
+### Sobrescrita
 
 - É um conceito do polimorfismo que nos permite reescrever um método nas classes filhas métodos que foram inicialmente criados nas classes pai
 
