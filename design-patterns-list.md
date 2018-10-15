@@ -1,0 +1,31 @@
+* **Criacionais**
+- :white_check_mark: Abstract Factory ( STATUS )
+- :white_check_mark: Factory Method ( STATUS )
+- :question: Prototype ( STATUS )
+- :white_check_mark: Builder ( STATUS )
+- :question:Singleton ( STATUS )
+- :x: Multiton ( STATUS )
+
+* **Estruturais**
+- :white_check_mark: Adapter ( STATUS )
+- :x: Bridge ( STATUS )
+- :white_check_mark: Composite ( STATUS )
+- :white_check_mark: Decorator ( STATUS )
+- :question: Facade ( STATUS )
+- :x: Flyweight ( STATUS )
+- :x: Private Clan Data ( STATUS )
+- :white_check_mark: Proxy ( STATUS )
+
+* **Comportamentais**
+- :x: Chain of Responsability ( STATUS )
+- :question: Command ( STATUS )
+- :question: Interpreter ( STATUS )
+- :question: Interator ( STATUS )
+- :question: Mediator ( STATUS )
+- :x: Memento ( STATUS )
+- :x: Null Object ( STATUS )
+- :white_check_mark::white_check_mark: Observer ( STATUS )
+- :white_check_mark: State ( STATUS )
+- :white_check_mark: Strategy ( Done )
+- :white_check_mark: Template Method ( STATUS )
+- :x: Visitor ( STATUS )
