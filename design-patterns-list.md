@@ -1,6 +1,6 @@
 * **Criacionais**
 - :white_check_mark: Abstract Factory ( STATUS )
-- :white_check_mark: Factory Method ( STATUS )
+- :white_check_mark: Factory Method ( Done )
 - :question: Prototype ( STATUS )
 - :white_check_mark: Builder ( STATUS )
 - :question:Singleton ( STATUS )
