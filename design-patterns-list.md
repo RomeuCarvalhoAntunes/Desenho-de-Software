@@ -24,7 +24,7 @@
 - :question: Mediator ( STATUS )
 - :x: Memento ( STATUS )
 - :x: Null Object ( STATUS )
-- :white_check_mark::white_check_mark: Observer ( STATUS )
+- :white_check_mark::white_check_mark: Observer ( Done )
 - :white_check_mark: State ( STATUS )
 - :white_check_mark: Strategy ( Done )
 - :white_check_mark: Template Method ( STATUS )
