@@ -13,7 +13,7 @@
 - :white_check_mark: Decorator ( In Progress )
 - :question: Facade ( In Progress )
 - :x: Flyweight ( In Progress)
-- :x: Private Clan Data ( STATUS )
+- :x: Private Class Data ( STATUS )
 - :white_check_mark: Proxy ( In Progress )
 
 * **Comportamentais**
@@ -25,7 +25,7 @@
 - :x: Memento ( In Progress )
 - :x: Null Object ( STATUS )
 - :white_check_mark::white_check_mark: Observer ( Done )
-- :white_check_mark: State ( STATUS )
+- :white_check_mark: State ( In Progress )
 - :white_check_mark: Strategy ( Done )
 - :white_check_mark: Template Method ( In Progress )
 - :x: Visitor ( In Progress )
